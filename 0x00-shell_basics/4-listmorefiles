@@ -1,2 +1,2 @@
 #!/bin/bash
-lc -a
+lc -la
