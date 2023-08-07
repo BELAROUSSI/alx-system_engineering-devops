@@ -1,2 +1,2 @@
 #!/bon/bash
-tr "A" "z" | "c" "e"
+tr "A" "Z" | "c" "e"
